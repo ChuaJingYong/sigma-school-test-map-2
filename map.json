@@ -2005,9 +2005,9 @@
                     0, 17327, 0, 0, 0, 0, 0, 14501, 14502, 0, 0, 0, 0, 0, 0, 0, 14533, 14534, 14503, 0, 0, 0, 0, 0, 0, 0, 14501, 14502, 0, 0, 0, 0, 0, 0, 0, 14533, 14534, 14503, 0, 0, 0, 0, 0, 0, 14501, 14502, 0, 0, 0, 0, 0, 0, 0, 0, 14533, 14534, 14503, 0, 0, 0, 0, 0, 0, 14501, 14502, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 17343, 0, 0, 0, 0, 0, 14517, 14518, 0, 0, 0, 0, 0, 0, 0, 14549, 14550, 14519, 0, 0, 0, 0, 0, 0, 0, 14517, 14518, 0, 0, 0, 0, 0, 0, 0, 14549, 14550, 14519, 0, 0, 0, 0, 0, 0, 14517, 14518, 0, 0, 0, 0, 0, 0, 0, 0, 14549, 14550, 14519, 0, 0, 0, 0, 0, 0, 14517, 14518, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 17359, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684379576, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12348, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12348, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147496012, 0, 0, 0, 0, 13469, 0, 12468, 0, 0, 0, 0, 0, 0, 12468, 0, 0, 0, 0, 0, 0, 12364, 0, 0, 0, 0, 0, 2147496012, 0, 0, 0, 0, 13469, 0, 12468, 0, 0, 0, 0, 0, 0, 12468, 0, 0, 0, 0, 0, 0, 12364, 0,
-                    0, 17209, 17209, 0, 0, 26136, 26138, 14467, 14468, 0, 0, 0, 0, 0, 0, 26136, 26138, 14435, 14436, 0, 0, 0, 0, 0, 26136, 26138, 14467, 14468, 0, 0, 0, 0, 0, 26136, 26138, 14435, 14436, 0, 0, 0, 0, 0, 26136, 26138, 14467, 14468, 0, 0, 0, 0, 0, 0, 26136, 26138, 14435, 14436, 0, 0, 0, 0, 0, 26136, 26138, 14467, 14468, 0, 0, 0, 0, 0, 13978, 13979, 0, 0, 0, 0, 0, 13976, 13977, 0, 2147496028, 0, 0, 0, 0, 13485, 0, 12484, 0, 0, 0, 0, 0, 0, 12484, 0, 0, 0, 0, 0, 0, 12380, 0, 0, 0, 0, 0, 2147496028, 0, 0, 0, 0, 13485, 0, 12484, 0, 0, 0, 0, 0, 0, 12484, 0, 0, 0, 0, 0, 0, 12380, 0,
-                    0, 17225, 17225, 0, 0, 26141, 26143, 14483, 14484, 0, 0, 0, 0, 0, 0, 26141, 26143, 14451, 14452, 0, 0, 0, 0, 0, 26141, 26143, 14483, 14484, 0, 0, 0, 0, 0, 26141, 26143, 14451, 14452, 0, 0, 0, 0, 0, 26141, 26143, 14483, 14484, 0, 0, 0, 0, 0, 0, 26141, 26143, 14451, 14452, 0, 0, 0, 0, 0, 26141, 26143, 14483, 14484, 0, 0, 0, 0, 0, 13994, 13995, 0, 0, 0, 0, 0, 13992, 13993, 0, 2147496044, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12396, 0, 0, 0, 0, 0, 2147496044, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12396, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147496012, 0, 0, 0, 0, 13469, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12364, 0, 0, 0, 0, 0, 2147496012, 0, 0, 0, 0, 13469, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12364, 0,
+                    0, 17209, 17209, 0, 0, 26136, 26138, 14467, 14468, 0, 0, 0, 0, 0, 0, 26136, 26138, 14435, 14436, 0, 0, 0, 0, 0, 26136, 26138, 14467, 14468, 0, 0, 0, 0, 0, 26136, 26138, 14435, 14436, 0, 0, 0, 0, 0, 26136, 26138, 14467, 14468, 0, 0, 0, 0, 0, 0, 26136, 26138, 14435, 14436, 0, 0, 0, 0, 0, 26136, 26138, 14467, 14468, 0, 0, 0, 0, 0, 13978, 13979, 0, 0, 0, 0, 0, 13976, 13977, 0, 2147496028, 0, 0, 0, 0, 13485, 0, 8525, 8531, 8527, 0, 0, 0, 8071, 8072, 0, 0, 0, 0, 0, 0, 12380, 0, 0, 0, 0, 0, 2147496028, 0, 0, 0, 0, 13485, 0, 8071, 8072, 0, 0, 0, 0, 8525, 8531, 8527, 0, 0, 0, 0, 0, 12380, 0,
+                    0, 17225, 17225, 0, 0, 26141, 26143, 14483, 14484, 0, 0, 0, 0, 0, 0, 26141, 26143, 14451, 14452, 0, 0, 0, 0, 0, 26141, 26143, 14483, 14484, 0, 0, 0, 0, 0, 26141, 26143, 14451, 14452, 0, 0, 0, 0, 0, 26141, 26143, 14483, 14484, 0, 0, 0, 0, 0, 0, 26141, 26143, 14451, 14452, 0, 0, 0, 0, 0, 26141, 26143, 14483, 14484, 0, 0, 0, 0, 0, 13994, 13995, 0, 0, 0, 0, 0, 13992, 13993, 0, 2147496044, 0, 0, 0, 0, 0, 0, 8573, 8547, 8575, 0, 0, 0, 8087, 8088, 0, 0, 0, 0, 0, 0, 12396, 0, 0, 0, 0, 0, 2147496044, 0, 0, 0, 0, 0, 0, 8087, 8088, 0, 0, 0, 0, 8573, 8547, 8575, 0, 0, 0, 0, 0, 12396, 0,
                     0, 17241, 17241, 0, 0, 14497, 14498, 0, 0, 14465, 14466, 0, 0, 0, 0, 14529, 14530, 0, 0, 14433, 14434, 0, 0, 0, 14497, 14498, 0, 0, 14465, 14466, 0, 0, 0, 14529, 14530, 0, 0, 14433, 14434, 0, 0, 0, 14497, 14498, 0, 0, 14465, 14466, 0, 0, 0, 0, 14529, 14530, 0, 0, 14433, 14434, 0, 0, 0, 14497, 14498, 0, 0, 14465, 14466, 0, 0, 0, 14010, 14011, 29855, 29856, 29857, 29858, 29859, 14008, 14009, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 14513, 14514, 0, 0, 14481, 14482, 0, 0, 25017, 0, 14545, 14546, 0, 0, 14449, 14450, 0, 25017, 0, 14513, 14514, 0, 0, 14481, 14482, 0, 25017, 0, 14545, 14546, 0, 0, 14449, 14450, 0, 25017, 0, 14513, 14514, 0, 0, 14481, 14482, 0, 0, 25017, 0, 14545, 14546, 0, 0, 14449, 14450, 0, 25017, 0, 14513, 14514, 0, 0, 14481, 14482, 0, 0, 0, 0, 0, 29871, 29872, 29873, 29874, 29875, 0, 9624, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 14533, 14534, 14503, 0, 0, 0, 0, 0, 0, 0, 14501, 14502, 0, 0, 0, 0, 0, 0, 0, 14533, 14534, 14503, 0, 0, 0, 0, 0, 0, 14501, 14502, 0, 0, 0, 0, 0, 0, 0, 14533, 14534, 14503, 0, 0, 0, 0, 0, 0, 0, 14501, 14502, 0, 0, 0, 0, 0, 0, 0, 14533, 14534, 14503, 0, 0, 0, 0, 14248, 0, 29887, 29888, 29889, 29890, 29891, 0, 14247, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -2142,8 +2142,8 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8251, 8252, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12333, 12334, 12335, 0, 0, 0, 0, 13751, 13753, 13753, 13753, 13753, 13752, 0, 0, 0, 0, 12333, 12334, 12335, 0, 0, 0, 0, 0, 0, 0, 12333, 12334, 12335, 0, 0, 0, 0, 13751, 13753, 13753, 13753, 13753, 13752, 0, 0, 0, 0, 12333, 12334, 12335, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147495996, 12349, 12350, 12351, 0, 13453, 0, 0, 13751, 13753, 13753, 13753, 13753, 13752, 0, 12084, 12085, 13834, 12349, 12350, 12351, 0, 0, 0, 0, 0, 0, 2147495996, 12349, 12350, 12351, 0, 13453, 0, 0, 13751, 13753, 13753, 13753, 13753, 13752, 0, 12084, 12085, 13834, 12349, 12350, 12351, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12365, 12366, 12367, 0, 0, 0, 0, 13767, 13769, 13769, 13769, 13769, 13768, 0, 0, 0, 13850, 12365, 12366, 12367, 0, 0, 0, 0, 0, 0, 0, 12365, 12366, 12367, 0, 0, 0, 0, 13767, 13769, 13769, 13769, 13769, 13768, 0, 0, 0, 13850, 12365, 12366, 12367, 0, 0,
-                    0, 0, 0, 0, 0, 26150, 26229, 0, 0, 0, 0, 0, 0, 0, 0, 26150, 26239, 0, 0, 0, 0, 0, 0, 0, 26160, 26149, 0, 0, 0, 0, 0, 0, 0, 26160, 26159, 0, 0, 0, 0, 0, 0, 0, 26160, 26169, 0, 0, 0, 0, 0, 0, 0, 0, 26160, 26179, 0, 0, 0, 0, 0, 0, 0, 26160, 26189, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12345, 12381, 12382, 12383, 0, 0, 14497, 14498, 0, 14433, 14434, 0, 0, 0, 0, 0, 0, 0, 12381, 12382, 12383, 12348, 0, 0, 0, 0, 0, 12345, 12381, 12382, 12383, 0, 0, 14497, 14498, 0, 14433, 14434, 0, 0, 0, 0, 0, 0, 0, 12381, 12382, 12383, 12348, 0,
-                    0, 0, 0, 0, 0, 26155, 26234, 0, 0, 0, 0, 0, 0, 0, 0, 26155, 26244, 0, 25464, 0, 0, 0, 0, 0, 26165, 26154, 0, 0, 0, 0, 0, 0, 0, 26165, 26164, 0, 0, 0, 0, 0, 0, 0, 26165, 26174, 0, 25464, 0, 0, 0, 0, 0, 0, 26165, 26184, 0, 0, 0, 0, 0, 0, 0, 26165, 26194, 0, 25464, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12361, 0, 0, 0, 0, 0, 14513, 14514, 0, 14449, 14450, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12364, 0, 0, 0, 0, 0, 12361, 0, 0, 0, 0, 0, 14513, 14514, 0, 14449, 14450, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12364, 0,
+                    0, 0, 0, 0, 0, 26150, 26229, 0, 0, 0, 0, 0, 0, 0, 0, 26150, 26239, 0, 0, 0, 0, 0, 0, 0, 26160, 26149, 0, 0, 0, 0, 0, 0, 0, 26160, 26159, 0, 0, 0, 0, 0, 0, 0, 26160, 26169, 0, 0, 0, 0, 0, 0, 0, 0, 26160, 26179, 0, 0, 0, 0, 0, 0, 0, 26160, 26189, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12345, 12381, 12382, 12383, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12381, 12382, 12383, 12348, 0, 0, 0, 0, 0, 12345, 12381, 12382, 12383, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12381, 12382, 12383, 12348, 0,
+                    0, 0, 0, 0, 0, 26155, 26234, 0, 0, 0, 0, 0, 0, 0, 0, 26155, 26244, 0, 25464, 0, 0, 0, 0, 0, 26165, 26154, 0, 0, 0, 0, 0, 0, 0, 26165, 26164, 0, 0, 0, 0, 0, 0, 0, 26165, 26174, 0, 25464, 0, 0, 0, 0, 0, 0, 26165, 26184, 0, 0, 0, 0, 0, 0, 0, 26165, 26194, 0, 25464, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12361, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12364, 0, 0, 0, 0, 0, 12361, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12364, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 25403, 0, 0, 0, 0, 0, 0, 0, 0, 0, 25480, 0, 0, 0, 0, 0, 0, 0, 0, 25403, 0, 0, 0, 0, 0, 0, 0, 0, 25403, 0, 0, 0, 0, 0, 0, 0, 0, 25480, 0, 0, 0, 0, 0, 0, 0, 0, 0, 25403, 0, 0, 0, 0, 0, 0, 0, 0, 25480, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12377, 0, 0, 0, 13805, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13824, 0, 0, 0, 12380, 0, 0, 0, 0, 0, 12377, 0, 0, 0, 13805, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13824, 0, 0, 0, 12380, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12393, 0, 0, 0, 13821, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12396, 0, 0, 0, 0, 0, 12393, 0, 0, 0, 13821, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12396, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -2929,23 +2929,6 @@
          "objects":[
                 {
                  "class":"area",
-                 "height":256,
-                 "id":45,
-                 "name":"silentZone",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":192,
-                 "x":3936,
-                 "y":64
-                }, 
-                {
-                 "class":"area",
                  "height":416,
                  "id":103,
                  "name":"OfficeSession",
@@ -3094,7 +3077,7 @@
                 }, 
                 {
                  "class":"area",
-                 "height":384,
+                 "height":224,
                  "id":164,
                  "name":"Workshop session",
                  "properties":[
@@ -3122,11 +3105,11 @@
                  "visible":true,
                  "width":448,
                  "x":2688,
-                 "y":1344
+                 "y":1504
                 }, 
                 {
                  "class":"area",
-                 "height":384,
+                 "height":224,
                  "id":165,
                  "name":"Jumpstarter session",
                  "properties":[
@@ -3154,7 +3137,7 @@
                  "visible":true,
                  "width":480,
                  "x":3520,
-                 "y":1344
+                 "y":1504
                 }, 
                 {
                  "class":"area",
@@ -4289,6 +4272,80 @@
                 }, 
                 {
                  "class":"area",
+                 "height":96,
+                 "id":259,
+                 "name":"Whiteboard 1 Shared",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/app.eraser.io\/workspace\/qyAzXvnwSKusu4nOLHNt?origin=share"
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE or touch here to collaborate on a whiteboard"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":128,
+                 "x":2944,
+                 "y":1344
+                }, 
+                {
+                 "class":"area",
+                 "height":96,
+                 "id":260,
+                 "name":"Whiteboard 1 Shared",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/app.eraser.io\/workspace\/S5G2M5s2YbxOeV5HIFJP?origin=share"
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE or touch here to collaborate on a whiteboard"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":128,
+                 "x":3616,
+                 "y":1344
+                }, 
+                {
+                 "class":"area",
                  "height":160,
                  "id":167,
                  "name":"Google Docs",
@@ -4586,6 +4643,80 @@
                 {
                  "class":"area",
                  "height":96,
+                 "id":257,
+                 "name":"Replit 1 Shared",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"openTab",
+                         "type":"string",
+                         "value":"https:\/\/replit.com\/teams\/join\/fdesnpwfivfrlpckpiedvkyvgtsrphxh-beginners-coding-fundamental"
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE or touch here to access Beginners Workshop Materials on Replit"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":128,
+                 "x":2752,
+                 "y":1344
+                }, 
+                {
+                 "class":"area",
+                 "height":96,
+                 "id":258,
+                 "name":"Replit 2 Shared",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"openTab",
+                         "type":"string",
+                         "value":"https:\/\/replit.com\/teams\/join\/vmfdzzhitdjuqgmdfzagvwakbvkxkwrr-intermediate-coding-fundamen"
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE or touch here to access Intermediate Workshop Materials on Replit"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":128,
+                 "x":3840,
+                 "y":1344
+                }, 
+                {
+                 "class":"area",
+                 "height":96,
                  "id":207,
                  "name":"Replit Fundamentals Room 1",
                  "properties":[
@@ -4597,7 +4728,7 @@
                         {
                          "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/app.tryeraser.com\/workspace\/yfThLvHmJK4EwN9lEJnP?origin=share"
+                         "value":"https:\/\/replit.com\/@Sigma-SchoolSc1\/SigmaVerse-Replit-Fundamentals#Room%202\/README.md"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -5653,45 +5784,8 @@
                  "rotation":0,
                  "visible":true,
                  "width":128,
-                 "x":3200,
+                 "x":3040,
                  "y":3648
-                }, 
-                {
-                 "class":"area",
-                 "height":96,
-                 "id":243,
-                 "name":"Sign Up",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/airtable.com\/embed\/shrsJ1ihoXkrmoCFc"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Press SPACE or touch here to sign up"
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":128,
-                 "x":3200,
-                 "y":3776
                 }, 
                 {
                  "class":"area",
@@ -5766,80 +5860,6 @@
                  "width":96,
                  "x":2720,
                  "y":3296
-                }, 
-                {
-                 "class":"area",
-                 "height":160,
-                 "id":244,
-                 "name":"Testing Embeds",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/dnd-kanban-board.vercel.app\/"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Set your goals for the day before you get started!"
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":96,
-                 "x":2624,
-                 "y":3520
-                }, 
-                {
-                 "class":"area",
-                 "height":160,
-                 "id":245,
-                 "name":"Testing Embeds2",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/rwk72n5v4m.sse.codesandbox.io\/"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Set your goals for the day before you get started!"
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":96,
-                 "x":2784,
-                 "y":3520
                 }, 
                 {
                  "class":"area",
@@ -6013,16 +6033,16 @@
                 }, 
                 {
                  "class":"area",
-                 "height":224,
+                 "height":64,
                  "id":13,
                  "template":"src\/websiteObject.tx",
-                 "width":192,
-                 "x":2912,
-                 "y":96
+                 "width":64,
+                 "x":2464,
+                 "y":64
                 }, 
                 {
                  "class":"area",
-                 "height":224,
+                 "height":64,
                  "id":14,
                  "name":"silentZone",
                  "properties":[
@@ -6033,9 +6053,9 @@
                         }],
                  "rotation":0,
                  "visible":true,
-                 "width":192,
-                 "x":3552,
-                 "y":96
+                 "width":64,
+                 "x":2240,
+                 "y":64
                 }, 
                 {
                  "class":"",
@@ -6092,7 +6112,343 @@
                 }, 
                 {
                  "class":"area",
-                 "height":352,
+                 "height":160,
+                 "id":247,
+                 "name":"MeetupZone-new-1",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"MeetupZoneNew1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Meet up Zone New 1"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":192,
+                 "x":2912,
+                 "y":96
+                }, 
+                {
+                 "class":"area",
+                 "height":160,
+                 "id":248,
+                 "name":"MeetupZone-new-2",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"MeetupZoneNew2"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Meet up Zone New 2"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":192,
+                 "x":3552,
+                 "y":96
+                }, 
+                {
+                 "class":"area",
+                 "height":224,
+                 "id":249,
+                 "name":"MeetupZone-new-3",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"MeetupZoneNew3"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Meet up Zone New 3"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":224,
+                 "x":3904,
+                 "y":64
+                }, 
+                {
+                 "class":"area",
+                 "height":224,
+                 "id":250,
+                 "name":"MeetupZone-new-4",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"MeetupZoneNew4"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Meet up Zone New 4"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":224,
+                 "x":2560,
+                 "y":64
+                }, 
+                {
+                 "class":"area",
+                 "height":192,
+                 "id":251,
+                 "name":"MeetupZone-new-5",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"MeetupZoneNew5"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Meet up Zone New 5"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":224,
+                 "x":3648,
+                 "y":2112
+                }, 
+                {
+                 "class":"area",
+                 "height":192,
+                 "id":252,
+                 "name":"MeetupZone-new-6",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"MeetupZoneNew6"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Meet up Zone New 6"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":192,
+                 "x":3936,
+                 "y":2112
+                }, 
+                {
+                 "class":"area",
+                 "height":160,
+                 "id":253,
+                 "name":"MeetupZone-new-7",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"MeetupZoneNew7"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Meet up Zone New 7"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":192,
+                 "x":3936,
+                 "y":2368
+                }, 
+                {
+                 "class":"area",
+                 "height":128,
+                 "id":254,
+                 "name":"MeetupZone-new-8",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"MeetupZoneNew8"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Meet up Zone New 8"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":192,
+                 "x":3648,
+                 "y":2336
+                }, 
+                {
+                 "class":"area",
+                 "height":192,
                  "id":199,
                  "name":"MeetupZone4",
                  "properties":[
@@ -6130,7 +6486,7 @@
                  "visible":true,
                  "width":256,
                  "x":3872,
-                 "y":3552
+                 "y":3712
                 }, 
                 {
                  "class":"area",
@@ -6215,6 +6571,48 @@
                  "width":160,
                  "x":2592,
                  "y":3712
+                }, 
+                {
+                 "class":"area",
+                 "height":128,
+                 "id":256,
+                 "name":"MeetupZone-new-9",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"MeetupZoneNew9"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Meet up Zone New 9"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":256,
+                 "x":3872,
+                 "y":3520
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -6658,7 +7056,7 @@
          "y":0
         }],
  "nextlayerid":84,
- "nextobjectid":246,
+ "nextobjectid":261,
  "orientation":"orthogonal",
  "properties":[
         {
